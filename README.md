@@ -1,4 +1,4 @@
-#  DLP
+#  ALP
 
 Official PyTorch implementation of ALP: Adaptive Layerwise Pruning in Large Language Models
       
